@@ -64,7 +64,7 @@
 <!--                </dependencies>-->
                 <configuration>
                     <goal>install</goal>
-                    <autoVersionSubmodules>true</autoVersionSubmodules>
+<!--                    <autoVersionSubmodules>true</autoVersionSubmodules>-->
                 </configuration>
 
             </plugin>
