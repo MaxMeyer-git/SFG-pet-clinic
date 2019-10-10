@@ -64,14 +64,14 @@
 <!--                </dependencies>-->
                 <configuration>
                     <goal>install</goal>
-<!--                    <autoVersionSubmodules>true</autoVersionSubmodules>-->
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
 
             </plugin>
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com:MaxMeyer-git/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/MaxMeyer-git/sfg-pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 </project>
