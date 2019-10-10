@@ -71,7 +71,9 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/MaxMeyer-git/sfg-pet-clinic.git</developerConnection>
+        <url>https://github.com/MaxMeyer-git/sfg-pet-clinic.git</url>
+        <connection>scm:git:git@github.com:MaxMeyer-git/sfg-pet-clinic.git</connection>
+        <developerConnection>scm:git:git@github.com:MaxMeyer-git/sfg-pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 </project>
